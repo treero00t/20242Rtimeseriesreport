@@ -20,6 +20,7 @@ data/      데이터 파일
 scripts/   R 분석 코드
 reports/   제안서 및 최종 보고서
 figures/   분석 그래프 이미지
+```
 
 ## Forecast Result
 ![forecast](figures/forecast.png)
